@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate versatile developper</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/NashiroDev/Symfolio)
+- 🔭 I’m currently working on [Liblock](https://github.com/NashiroDev/Liblock-FRA)
 
 - 🌱 I’m currently mainly learning **Symfony, python, solidity**
 
-- 👨‍💻 All of my projects are available on my Github account [Take a look](Take a look)
+- 👨‍💻 All of my projects are available on my Github account (Take a look)
 
 - 📫 You can reach me at : **nathan.pauchon.pro@gmail.com**
 
