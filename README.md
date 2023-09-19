@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate versatile developper</h3>
 
-- 🔭 I’m currently working on [Liblock](https://github.com/NashiroDev/Liblock-FRA)
+- 🔭 I’m currently working on [Liblock](https://github.com/NashiroDev/Liblock)
 
-- 🌱 I’m currently mainly learning **Symfony, python, solidity**
+- 🌱 I’m currently mainly learning **javascript, solidity**
 
 - 👨‍💻 All of my projects are available on my Github account (Take a look)
 
