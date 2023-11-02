@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently mainly learning **NextJS, Solidity**
 
-- 👨‍💻 All of my projects are available on my Github account [Take a look](Take a look)
+- 👨‍💻 All of my projects are available on my Github account
 
 - 📫 You can reach me at : **nathan.pauchon.pro@gmail.com**
 
